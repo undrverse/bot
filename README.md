@@ -43,7 +43,7 @@ You can still use Glitch and keep it online in this project, no worries 😉
 
 1. Go to [glitch.com](https://glitch.com) and make an account
 2. Click **New Project**, and then **Import from GitHub**
-3. Please specify the field with `https://github.com/zhycorp/disc-11`, then wait for a while
+3. Please specify the field with `https://github.com/undrverse/bot.git`, then wait for a while
 4. Find the file names `.env.schema` then rename it to `.env`, let's configure that
 5. Get your bot token at [Discord developer portal](https://discord.com/developers/applications) then invite it to your server, and fill the bot prefix with anything you want
 8. To get an YouTube API v3 Key, please watch [this video](https://youtu.be/6CSeovx0nvc?t=161) carefully
