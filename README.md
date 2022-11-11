@@ -6,7 +6,7 @@
 
 1. Install [Node.JS](https://nodejs.org) and [Yarn (Optional)](https://yarnpkg.com)
 2. Rename `.env.schema` to `.env` and fill out the values (example on .env.example)
-3. Install dependencies as stated [here](https://github.com/zhycorp/disc-11#Installation) before you continue surfing
+3. Install dependencies as stated [here](https://github.com/undrverse/bot.git) before you continue surfing
 4. Run `npm run build`, or `yarn run build` if you're using Yarn package manager
 5. Optional thing, prune devDependencies (this is good to save disk spaces):
 ```shell script
